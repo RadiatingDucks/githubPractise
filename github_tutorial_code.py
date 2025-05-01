@@ -1,1 +1,1 @@
-print("Goodluck, World!")
+print("Have a good day, World!")
